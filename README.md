@@ -204,9 +204,8 @@ Contributions welcome! Please:
 3. Submit a pull request
 
 ## 📄 License
-[Specify your license here]
+MIT
 
 ## 📞 Support
 For issues or questions:
 - Open an issue
-- [Contact Information]
